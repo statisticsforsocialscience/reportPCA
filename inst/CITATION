@@ -1,0 +1,17 @@
+citHeader("To cite reportPCA in publications use:")
+
+citEntry(entry="Manual",
+         title ="reportPCA: knitr compatible output for PCA Analyses",
+         author = "André Calero Valdez",
+         Organization = "RWTH Aachen University",
+         address      = "Campus Boulevard 57",
+         year         = 2019,
+         note         = "R package version 0.0.1",
+         url          = "https://github.com/statisticsforsocialscience/reportPCA",
+         textVersion =
+         paste("Calero Valdez, A. (2019) ",
+               "reportPCA: knitr compatible output for PCA Analyses, ",
+               "RWTH Aachen University, Campus Boulevard 57, 52074 Aachen, Germany, ",
+                "https://github.com/statisticsforsocialscience/reportPCA",
+                " Version = 0.0.1",".",sep="")
+)
